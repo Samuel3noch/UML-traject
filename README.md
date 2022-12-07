@@ -2,9 +2,9 @@
 
 # UML Traject (school opdracht).
 
-001 - Een usecase.
-002 - Een klassen-diagram.
-003 - Een object-diagram.
-004 - Een ERD (data modelling).
-005 - Een Fysiek (implementatie) model.
-006 - Een bestand-systeem in Mysql.
+001 - Een usecase. <br>
+002 - Een klassen-diagram. <br>   
+003 - Een object-diagram. <br> 
+004 - Een ERD (data modelling). <br>
+005 - Een Fysiek (implementatie) model. <br> 
+006 - Een bestand-systeem in Mysql. <br> 
