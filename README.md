@@ -1,4 +1,4 @@
-# UML-traject
+# UML-Traject
 
 # UML Traject (school opdracht).
 
