@@ -1,6 +1,6 @@
 # UML-Traject
 
-# UML Traject (school opdracht).
+# UML Traject (school project).
 
 001 - Een usecase. <br>
 002 - Een klassen-diagram. <br>
